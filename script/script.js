@@ -1,5 +1,4 @@
-console.log(Object);
-console.log(Array);
-console.log(String);
-console.log(Number);
-console.log(Boolean);
+const myFunction = (num) => {
+    alert(`${num} este es un nuevo archivo.`);
+}
+myFunction("Josué");
